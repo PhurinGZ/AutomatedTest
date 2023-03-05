@@ -3,15 +3,15 @@
    <description></description>
    <name>span_</name>
    <tag></tag>
-   <elementGuidId>d266a5ec-59ca-4c69-a868-6fbe5057b0ae</elementGuidId>
+   <elementGuidId>21b30226-be7e-4010-baab-38a60e40d57c</elementGuidId>
    <selectorCollection>
-      <entry>
-         <key>XPATH</key>
-         <value>//div[@id='app']/div/main/div/div/div/button/span</value>
-      </entry>
       <entry>
          <key>CSS</key>
          <value>button.mt-6.v-btn.v-btn--block.v-btn--has-bg.theme--dark.v-size--default.purple > span.v-btn__content</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='app']/div/main/div/div/div/button/span</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>span</value>
-      <webElementGuid>0e1f1e4e-02db-4ae0-b8a9-3454876d63fe</webElementGuid>
+      <webElementGuid>3fb58697-059d-4152-906f-f1f9cefb8558</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>v-btn__content</value>
-      <webElementGuid>a3419220-2b64-45b1-ab5f-a7b571b729b4</webElementGuid>
+      <webElementGuid>88d289d5-2bf8-41da-b1d2-5fcdae4a9b59</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>text</name>
       <type>Main</type>
       <value>เข้าสู่ระบบผู้ประกอบการ</value>
-      <webElementGuid>d7a04c65-2c3d-4894-9c3b-490b732fea0c</webElementGuid>
+      <webElementGuid>e6afc6df-8ea6-4158-ba09-f6f3ea2175f4</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;app&quot;)/div[@class=&quot;v-application--wrap&quot;]/main[@class=&quot;v-main bghhhP&quot;]/div[@class=&quot;v-main__wrap&quot;]/div[@class=&quot;w-full container mx-auto px-4 h-full flex flex-col justify-center items-center llbg pb-20&quot;]/div[@class=&quot;p-4 w-6/12&quot;]/button[@class=&quot;mt-6 v-btn v-btn--block v-btn--has-bg theme--dark v-size--default purple&quot;]/span[@class=&quot;v-btn__content&quot;]</value>
-      <webElementGuid>fb25149b-f88b-4802-ae90-c9c5f81b384d</webElementGuid>
+      <webElementGuid>2b654e85-2901-4d68-8644-fda3e6c8102e</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='app']/div/main/div/div/div/button/span</value>
-      <webElementGuid>4e41da2b-abd3-4f18-8f4d-40ea363cb4bf</webElementGuid>
+      <webElementGuid>2db3ed71-0ecd-4275-8915-17478a604611</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='เข้าสู่ระบบ'])[1]/following::span[1]</value>
-      <webElementGuid>ae94dfd1-ad09-4210-bdfe-bb4b10fe4265</webElementGuid>
+      <webElementGuid>d58475f9-696b-4abe-a095-37cfdb1836cf</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='ลืมรหัสผ่าน'])[1]/following::span[2]</value>
-      <webElementGuid>65af19ba-f222-4fb8-a72c-7f9a0caf8d91</webElementGuid>
+      <webElementGuid>cb7a0982-17b6-47f0-b9e6-4f77d1e4493a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='เข้าสู่ระบบผู้ประกอบการ']/parent::*</value>
-      <webElementGuid>9e138ab9-191f-433b-853d-979481f32322</webElementGuid>
+      <webElementGuid>b7a64d90-ab7e-4056-a8cf-7c8904c94813</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div/button/span</value>
-      <webElementGuid>b025d6b9-c39c-4782-868e-91c836f5983b</webElementGuid>
+      <webElementGuid>9bf9bef5-22a2-4f55-87bc-d0744f8c4ee7</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,6 +94,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//span[(text() = 'เข้าสู่ระบบผู้ประกอบการ' or . = 'เข้าสู่ระบบผู้ประกอบการ')]</value>
-      <webElementGuid>0dce572f-6e5b-4378-aa8d-4db2577af9fb</webElementGuid>
+      <webElementGuid>0b459cab-7edb-48fc-bd07-57ecbaee416a</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

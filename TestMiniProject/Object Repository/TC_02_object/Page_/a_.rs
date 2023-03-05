@@ -3,15 +3,15 @@
    <description></description>
    <name>a_</name>
    <tag></tag>
-   <elementGuidId>f30a96f3-4486-4c38-a328-6676b4816199</elementGuidId>
+   <elementGuidId>bcec31c5-414a-4c27-bfc6-1fcca8bbc600</elementGuidId>
    <selectorCollection>
-      <entry>
-         <key>XPATH</key>
-         <value>//div[@id='app']/div/main/div/div/div/div/div/span/a</value>
-      </entry>
       <entry>
          <key>CSS</key>
          <value>a</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='app']/div/main/div/div/div/div/div/span/a</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>73438821-a8c6-45ce-866a-e7b9789b7eda</webElementGuid>
+      <webElementGuid>1dc489ef-7163-4831-8f51-95d1d1e03b69</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +30,7 @@
       <name>href</name>
       <type>Main</type>
       <value>/probation_client_nuxt/#/auth/register</value>
-      <webElementGuid>444fa19f-d4ab-41b5-9234-1784d2993a2f</webElementGuid>
+      <webElementGuid>12acf65d-6a78-4854-b639-64abaf94f24e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>text</name>
       <type>Main</type>
       <value>สมัครสมาชิก</value>
-      <webElementGuid>34887894-2b22-4c4a-a0e7-db303c03825a</webElementGuid>
+      <webElementGuid>8d74cffc-2d8f-4516-a38f-367308ad89ed</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;app&quot;)/div[@class=&quot;v-application--wrap&quot;]/main[@class=&quot;v-main bghhhP&quot;]/div[@class=&quot;v-main__wrap&quot;]/div[@class=&quot;w-full container mx-auto px-4 h-full flex flex-col justify-center items-center llbg pb-20&quot;]/div[@class=&quot;p-4 w-6/12&quot;]/div[@class=&quot;v-card v-sheet theme--light&quot;]/div[@class=&quot;v-card__text&quot;]/span[1]/a[1]</value>
-      <webElementGuid>7410370d-0794-4ec0-896b-e23de6d5cdbc</webElementGuid>
+      <webElementGuid>ff4694ec-9bbd-4eb9-bb3f-0ea59741c984</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='app']/div/main/div/div/div/div/div/span/a</value>
-      <webElementGuid>1b35e9a0-a697-424f-bb53-353cd803823e</webElementGuid>
+      <webElementGuid>fbd5229a-7b4c-4ad3-bc24-06d6fa060c26</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath:link</name>
       <type>Main</type>
       <value>//a[contains(text(),'สมัครสมาชิก')]</value>
-      <webElementGuid>d8264ca8-5cc6-4d2a-a34b-6d40dc4110c8</webElementGuid>
+      <webElementGuid>07ad52bf-b0fe-4beb-862c-6e10d959a7c7</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='ยินดีต้อนรับ ผู้ประกอบการ'])[1]/following::a[1]</value>
-      <webElementGuid>8e9c0ed5-846c-49f6-9064-afa749b355ef</webElementGuid>
+      <webElementGuid>95ddc0dc-d79f-4df3-a20e-4ca87430e07e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='​'])[1]/preceding::a[1]</value>
-      <webElementGuid>565eacc4-c029-4692-a4e0-816458cdbe3d</webElementGuid>
+      <webElementGuid>a783793f-15d4-4c10-83c2-1bbb1d91ce12</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='ชื่อผู้ใช้'])[1]/preceding::a[1]</value>
-      <webElementGuid>db31798f-abb9-4808-8790-d2e96410f2db</webElementGuid>
+      <webElementGuid>bc4c87c8-2833-451c-aa90-859b4d2c2567</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='สมัครสมาชิก']/parent::*</value>
-      <webElementGuid>5ca9e08a-5f3b-46b0-8015-78176c4cb893</webElementGuid>
+      <webElementGuid>e4472b16-78ed-428c-a957-64584d7a7ad6</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +102,7 @@
       <name>xpath:href</name>
       <type>Main</type>
       <value>//a[contains(@href, '/probation_client_nuxt/#/auth/register')]</value>
-      <webElementGuid>d8503dc1-e095-4230-8b27-91afdbfe8d25</webElementGuid>
+      <webElementGuid>4ec1aac5-f704-43b4-88ef-4998392c3765</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,7 +110,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//a</value>
-      <webElementGuid>df543406-612c-4cfd-8b1b-765d00b9875a</webElementGuid>
+      <webElementGuid>770b05ed-ac56-49bb-ab2a-017b77c4146d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -118,6 +118,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//a[@href = '/probation_client_nuxt/#/auth/register' and (text() = 'สมัครสมาชิก' or . = 'สมัครสมาชิก')]</value>
-      <webElementGuid>f2078e81-4438-4abe-b3ff-8111363e54a8</webElementGuid>
+      <webElementGuid>939c65d4-5278-49e4-a3b1-a4becfad732e</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

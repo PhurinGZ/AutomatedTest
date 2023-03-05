@@ -21,7 +21,25 @@ WebUI.openBrowser('')
 
 WebUI.navigateToUrl('https://pongvarid.github.io/probation_client_nuxt/?fbclid#/auth/login/')
 
-WebUI.click(findTestObject('Object Repository/TC_6_object/Page_/span_'))
+WebUI.click(findTestObject('Object Repository/TC_02_object/Page_/span_'))
 
-WebUI.click(findTestObject('Object Repository/TC_6_object/Page_/a_'))
+WebUI.click(findTestObject('Object Repository/TC_02_object/Page_/a_'))
+
+WebUI.setText(findTestObject('Object Repository/TC_02_object/Page_/input__input-46'), 'Bas')
+
+WebUI.setEncryptedText(findTestObject('Object Repository/TC_02_object/Page_/input__input-49'), 'aeHFOx8jV/A=')
+
+WebUI.setEncryptedText(findTestObject('Object Repository/TC_02_object/Page_/input__input-52'), 'aeHFOx8jV/A=')
+
+WebUI.setText(findTestObject('Object Repository/TC_02_object/Page_/input__input-55'), '64021878@up.ac.th')
+
+WebUI.setText(findTestObject('Object Repository/TC_02_object/Page_/input__input-58'), 'Goast')
+
+WebUI.click(findTestObject('Object Repository/TC_02_object/Page_/input__input-61'))
+
+WebUI.setText(findTestObject('Object Repository/TC_02_object/Page_/input__input-61'), 'ต.แม่กา อ.เมือง จ.พะเยา')
+
+WebUI.click(findTestObject('Object Repository/TC_02_object/Page_/span__1'))
+
+WebUI.closeBrowser()
 

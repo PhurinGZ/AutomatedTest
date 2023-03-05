@@ -19,23 +19,11 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.openBrowser('')
 
-WebUI.navigateToUrl('https://pongvarid.github.io/probation_client_nuxt/?fbclid#/auth/adminlogin/')
+WebUI.navigateToUrl('https://pongvarid.github.io/probation_client_nuxt/?fbclid#/auth/login/')
 
-WebUI.click(findTestObject('Object Repository/TC_09_object/Page_/button_'))
+WebUI.click(findTestObject('Object Repository/TC_05_object/Page_/span_'))
 
-WebUI.click(findTestObject('Object Repository/TC_09_object/Page_/a_'))
+WebUI.click(findTestObject('Object Repository/TC_05_object/Page_/a_'))
 
-WebUI.setText(findTestObject('Object Repository/TC_09_object/Page_/input__input-61'), 'Bas')
-
-WebUI.setEncryptedText(findTestObject('Object Repository/TC_09_object/Page_/input__input-64'), 'aeHFOx8jV/A=')
-
-WebUI.setEncryptedText(findTestObject('Object Repository/TC_09_object/Page_/input__input-67'), 'aeHFOx8jV/A=')
-
-WebUI.setText(findTestObject('Object Repository/TC_09_object/Page_/input__input-70'), '64021878@up.ac.th')
-
-WebUI.setText(findTestObject('Object Repository/TC_09_object/Page_/input__input-73'), 'Goast')
-
-WebUI.setText(findTestObject('Object Repository/TC_09_object/Page_/input__input-76'), 'ต.แม่กา อ.เมือง จ.พะเยา')
-
-WebUI.click(findTestObject('Object Repository/TC_09_object/Page_/span_'))
+WebUI.click(findTestObject('Object Repository/TC_05_object/Page_/span__1'))
 
