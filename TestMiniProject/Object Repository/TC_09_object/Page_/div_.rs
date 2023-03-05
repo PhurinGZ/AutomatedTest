@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_</name>
+   <tag></tag>
+   <elementGuidId>a8ea3be6-97ab-4d1d-96ac-265846f13f12</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>307dcc95-5dff-4880-934e-b3b61d2182f0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>p-4 w-6/12</value>
+      <webElementGuid>a68ac35c-c4bc-40cb-8f8d-540d929598be</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>​ชื่อผู้ใช้ ​รหัสผ่าน ลืมรหัสผ่าน   เข้าสู่ระบบ  เข้าสู่ระบบผู้ประกอบการ</value>
+      <webElementGuid>6cf0fcf9-3251-4212-975b-3e80f12a9320</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[@class=&quot;v-application--wrap&quot;]/main[@class=&quot;v-main bghhhP&quot;]/div[@class=&quot;v-main__wrap&quot;]/div[@class=&quot;w-full container mx-auto px-4 h-full flex flex-col justify-center items-center llbg pb-20&quot;]/div[@class=&quot;p-4 w-6/12&quot;]</value>
+      <webElementGuid>d0f16dd9-a162-4505-8d84-994b319dd3e1</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div/main/div/div/div</value>
+      <webElementGuid>86859cbd-1b25-4453-87e7-15438d77c1c6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='ยินดีต้อนรับ ระบบจัดหางานผู้ถูกคุมประพฤติ'])[1]/following::div[1]</value>
+      <webElementGuid>b4dc8f65-299a-4f02-aa77-8f57d132effe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='คุมประพฤติ'])[1]/following::div[1]</value>
+      <webElementGuid>7ea2cf96-50ba-4904-95bf-a70a5c4d9215</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//main/div/div/div</value>
+      <webElementGuid>1b7574b4-4530-46de-b8a6-8c66012b47ed</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = '​ชื่อผู้ใช้ ​รหัสผ่าน ลืมรหัสผ่าน   เข้าสู่ระบบ  เข้าสู่ระบบผู้ประกอบการ' or . = '​ชื่อผู้ใช้ ​รหัสผ่าน ลืมรหัสผ่าน   เข้าสู่ระบบ  เข้าสู่ระบบผู้ประกอบการ')]</value>
+      <webElementGuid>3d86f9d4-4933-4e14-827d-f344945ce88c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
